@@ -1,3 +1,3 @@
 # Test Plots
 
-[2016 VIC-RAPID test](plots/panels/TEST_COMBO_MAP.html)
+[2016 lisflood test](plots/panels/TEST_COMBO_MAP.html)
